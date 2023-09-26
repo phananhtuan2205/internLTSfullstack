@@ -1,0 +1,46 @@
+{
+    "tiengviet":[
+        {
+            "name":"Trang Chủ",
+            "link":"/"
+        },
+        {
+            "name":"Giới Thiệu",
+            "link":"/about"
+        },
+        {
+            "name" :"Sản Phẩm",
+            "link":"/shop"
+        },
+        {
+            "name" :"Tin Tức",
+            "link":"/blog"
+        },
+        {
+            "name" :"Liên Hệ",
+            "link":"/contact"
+        }
+    ],
+    "english":[
+        {
+            "name":"Home",
+            "link":"/"
+        },
+        {
+            "name":"About Us",
+            "link":"/about"
+        },
+        {
+            "name" :"Shop",
+            "link":"/shop"
+        },
+        {
+            "name" :"Blog",
+            "link":"/blog"
+        },
+        {
+            "name" :"Contact Us",
+            "link":"/contact"
+        }
+    ]
+}

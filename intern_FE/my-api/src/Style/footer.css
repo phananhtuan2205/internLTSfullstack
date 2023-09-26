@@ -1,0 +1,25 @@
+.footer{
+    margin: 10px auto;
+    text-align: center;
+    height: 300px;
+    background-image: url("https://res.cloudinary.com/do9rcgv5s/image/upload/v1692144184/qgbkcsydg2vwqcosx4ns.png");
+    background-size: cover;
+    color: white;
+
+}
+
+.gutter-row ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.gutter-row h3{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0 0 16px;
+    color: #fff;
+}
+.gutter-row ul li i{
+    padding: 5px;
+}
